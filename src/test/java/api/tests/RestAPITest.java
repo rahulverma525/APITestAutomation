@@ -1,4 +1,4 @@
-package com.rahul.testautomation.api.tests;
+package api.tests;
 
 import static org.testng.AssertJUnit.assertTrue;
 
@@ -15,8 +15,8 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
-import com.rahul.testautomation.ebay.config.Constant;
-import com.rahul.testautomation.utils.ExcelUtils;
+import api.config.Constant;
+import utils.ExcelUtils;
 
 import org.json.JSONObject;
 import org.testng.ITestResult;

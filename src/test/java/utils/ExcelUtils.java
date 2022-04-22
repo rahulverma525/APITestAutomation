@@ -1,4 +1,4 @@
-package com.rahul.testautomation.utils;
+package utils;
 import org.apache.poi.ss.usermodel.DataFormatter;
 
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package com.rahul.testautomation.api.tests;
+package api.tests;
 import java.util.List;
 
 import org.testng.TestNG;

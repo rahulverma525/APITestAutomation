@@ -1,4 +1,4 @@
-package com.rahul.testautomation.ebay.config;
+package api.config;
 
 
 public class Constant {

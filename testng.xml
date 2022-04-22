@@ -5,7 +5,7 @@
   
    <test name="API_TEST">
     <classes>
-     <class name="com.rahul.testautomation.api.tests.RestAPITest"></class>
+     <class name="api.tests.RestAPITest"></class>
       </classes>
   </test>
 </suite>
